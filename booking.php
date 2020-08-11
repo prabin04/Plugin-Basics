@@ -1,21 +1,21 @@
 <?php
 /**
- * Change Marketing Booking System
+ * Booking Management System
  *
  * @package           PluginPackage
- * @author            Change Marketing
- * @copyright         2020 Change Marketing
+ * @author            Booking System Marketing
+ * @copyright         2020 Booking system
  * @license           GPL-2.0-or-later
  *
  * @wordpress-plugin
  * Plugin Name:       Change Marketing Booking System 
- * Plugin URI:        https://example.com/plugin-name
- * Description:       Change Marketing Booking System plugin
- * Version:           100
+ * Plugin URI:        https://abc.com/plugin-name
+ * Description:       Demo Booking System plugin
+ * Version:           1.00
  * Requires at least: 5.2
  * Requires PHP:      7.2
- * Author:            Change Marketing
- * Author URI:        https://changemarketing.no
+ * Author:            ABC enterprice
+ * Author URI:        https://abc.com
  * Text Domain:       plugin-slug
  * License:           GPL v2 or later
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
